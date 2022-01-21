@@ -182,7 +182,7 @@ function draw(){
       fill("white");
       stroke("blue");
       strokeWeight(8);
-      text("Score:" + score, 1450,50);
+      text("Score:" + score, 1430,50);
 
       drawSprites();
 }
