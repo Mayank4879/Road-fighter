@@ -119,7 +119,7 @@ function draw(){
       fill("white");
       stroke("blue");
       strokeWeight(8);
-      text("Score:" + score, 1450,50);
+      text("Score:" + score, 1400,50);
 
       spawnNPC(); 
       spawnFuel();
